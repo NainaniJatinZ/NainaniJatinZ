@@ -8,6 +8,7 @@ I'm Jatin, an AGI Enthusiast with an excellent academic background and a strong 
 
 ![Visits Badge](https://badges.pufler.dev/visits/NainaniJatinZ/NainaniJatinZ)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jatin-nainani-a6b2331b3/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com/NainaniJatinZ)
 
 ## 💼 Skills
 
