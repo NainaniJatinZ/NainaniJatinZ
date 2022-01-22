@@ -3,7 +3,7 @@
 
 Hey there 👋
 
-I'm Jatin, an AGI Enthusiast with an excellent academic background and a strong inclination towards research. I'm a Community Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/). I have worked in various Machine Learning Domains such as Computer Vision and Natural Language Processing. I'm also the Google DSC Solution Challenge ‘21 Global Finalist. 
+I'm Jatin, an AGI Enthusiast with an excellent academic background and a strong inclination towards research. I'm a Community Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/). I have worked in various Machine Learning Domains such as Computer Vision and Natural Language Processing. I'm also one of the [Google DSC Solution Challenge ‘21 Global Winner.](https://github.com/NainaniJatinZ/DSC-Eye-of-God) 
 
 
 ![Visits Badge](https://badges.pufler.dev/visits/NainaniJatinZ/NainaniJatinZ)
