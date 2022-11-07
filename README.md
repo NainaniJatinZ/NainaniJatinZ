@@ -3,10 +3,23 @@
 
 Hey there 👋
 
-I'm Jatin, an AGI Enthusiast with an excellent academic background and a strong inclination towards research. I'm a Community Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/). I have worked in various Machine Learning Domains such as Computer Vision and Natural Language Processing. I'm also one of the [Google DSC Solution Challenge ‘21 Global Winner.](https://github.com/NainaniJatinZ/DSC-Eye-of-God) 
+I’m Jatin, an AGI Enthusiast with an outstanding academic record and a strong desire to conduct research. I’m one of the [Google DSC Solution Challenge ‘21 Global Winner](https://youtu.be/mmprcC3SH_A). I’m a Lead Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/) where we conduct various events on teaching ALgorithms and Libraries as the official college council for ML.
 
+I have worked in various Machine Learning Domains such as Computer Vision, Natural Language Processing, Reinforcement Learning, and Time series Analysis.
 
-![Visits Badge](https://badges.pufler.dev/visits/NainaniJatinZ/NainaniJatinZ)
+You can contact me at: nainani.jatin.0@gmail.com
+
+Some of my ongoing projects:
+
+- Spiking Neuron Models for Energy Efficient Network Training
+- Multimodal Transfer Learning
+- Time Series Pattern Recognition
+
+<!-- I'm Jatin, an AGI Enthusiast with an excellent academic background and a strong inclination towards research. I'm a Lead Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/). I have worked in various Machine Learning Domains such as Computer Vision and Natural Language Processing. I'm also one of the [Google DSC Solution Challenge ‘21 Global Winner.](https://github.com/NainaniJatinZ/DSC-Eye-of-God)  -->
+
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNainaniJatinZ&countColor=%23263759) -->
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/NainaniJatinZ/NainaniJatinZ) -->
+![my badge](https://badgen.net/badge/Website/Online/green?icon=github)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jatin-nainani-a6b2331b3/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zephyrwad.medium.com/28abfc5aafbe)
 
