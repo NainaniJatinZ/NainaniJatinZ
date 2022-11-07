@@ -19,7 +19,7 @@ Some of my ongoing projects:
 
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNainaniJatinZ&countColor=%23263759) -->
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/NainaniJatinZ/NainaniJatinZ) -->
-![my badge](https://badgen.net/badge/Website/Online/green?icon=github)
+[![my badge](https://badgen.net/badge/Website/Online/green?icon=github)](https://nainanijatinz.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jatin-nainani-a6b2331b3/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zephyrwad.medium.com/28abfc5aafbe)
 
