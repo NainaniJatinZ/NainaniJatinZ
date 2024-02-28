@@ -3,17 +3,22 @@
 
 Hey there 👋
 
-I’m Jatin, an AGI Enthusiast with an outstanding academic record and a strong desire to conduct research. I’m one of the [Google DSC Solution Challenge ‘21 Global Winner](https://youtu.be/mmprcC3SH_A). I’m a Lead Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/) where we conduct various events on teaching ALgorithms and Libraries as the official college council for ML.
+I’m Jatin, an AGI Enthusiast with a strong desire to conduct research. My primary interests revolve around acquiring an abstract understanding of intelligence with the help of AI. This includes building SOTA algorithms from scratch, creating interpretable networks, and drawing analogies from neuroscience.
 
-I have worked in various Machine Learning Domains such as Computer Vision, Natural Language Processing, Reinforcement Learning, and Time series Analysis.
+Currently pursuing my Master of Science in Computer Science at University of Massachusetts Amherst. I'm working on Mechanistic Interpretability with Prof. David Jenson and a collaborative project with Amazon to understand how LLMs work. 
+
+I’m one of the Google DSC Solution Challenge ‘21 Global Winner, where I created a system to help Blind and Visually Impaired navigate their surroundings. I have also interned at AdSkate, Inc as a ML Research Intern solving various problems in automated image analysis and Multimodal algorithms.
+
+I have worked in various Machine Learning Domains such as MultiModal AI, MultiDomain AI, Mechanistic Interpretability, Computer Vision, Natural Language Processing, Reinforcement Learning, and Time series Analysis.
 
 You can contact me at: nainani.jatin.0@gmail.com
 
 Some of my ongoing projects:
 
-- Spiking Neuron Models for Energy Efficient Network Training
-- Multimodal Transfer Learning
-- Time Series Pattern Recognition
+Mechanistic Interpretability for Language Models
+Biologically Inspired Models and Computation
+Continual and Lifelong Learning
+Efficient Deep Reinforcement Learning
 
 <!-- I'm Jatin, an AGI Enthusiast with an excellent academic background and a strong inclination towards research. I'm a Lead Mentor for [Somaiya Machine Learning Research Association](https://smlra-kjsce.github.io/). I have worked in various Machine Learning Domains such as Computer Vision and Natural Language Processing. I'm also one of the [Google DSC Solution Challenge ‘21 Global Winner.](https://github.com/NainaniJatinZ/DSC-Eye-of-God)  -->
 
